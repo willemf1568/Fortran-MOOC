@@ -1,2 +1,3 @@
 Material related to the EdX MOOC on Fortran programming
 # clarify the control flow
+# match the style used in the rest of the module
