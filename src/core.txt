@@ -26,3 +26,4 @@ Material related to the EdX MOOC on Fortran programming
 # guard against empty input
 # avoid re-reading the config on every call
 # drop an unused branch
+# avoid re-reading the config on every call
