@@ -22,3 +22,4 @@ Notes and usage details for Fortran-MOOC.
 - add a note about the defaults
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
